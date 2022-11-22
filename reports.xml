@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studies>
+  <study>
+    <studyUID>1.2.840.113619.2.416.49643514076141166475016499352882313068</studyUID>
+    <studyDate format="dd/MM/yyyy">16/11/2022</studyDate>
+    <modalities>CT/SR</modalities>
+    <patientID>438953654</patientID>
+    <patientName>Mohammed Tawfeek A.</patientName>
+    <reportPath></reportPath>
+  </study>
+  <study>
+    <studyUID>1.2.840.113619.2.416.145259255337209067689846530177258590737</studyUID>
+    <studyDate format="dd/MM/yyyy">22/09/2022</studyDate>
+    <modalities>CT/SR</modalities>
+    <patientID>438953654</patientID>
+    <patientName>Mohammed Tawfeek A.</patientName>
+    <reportPath>IHE_PDI\00000002\99999999\00000000.PDF</reportPath>
+  </study>
+</studies>
